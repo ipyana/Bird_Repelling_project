@@ -19,7 +19,7 @@ pest bird damage to increase agricultural yield.
 The model is an evolving one to make the prototype more effective. We will continue to update
 this repository, incorporating new pest bird species and refining detection capabilities. The
 current version of the model and data are available for download via
-[https://studio.edgeimpulse.com/public/491069/latest] for those with Edge Impulse account. For
+(https://studio.edgeimpulse.com/public/491069/latest) for those with Edge Impulse account. For
 those without Edge Impulse account, Click [Here](https://drive.google.com/drive/folders/1ea5hSRjF4oRSP3Ecxe8ZgFzBOGLZrBLS)
 
 ## Project Overview
