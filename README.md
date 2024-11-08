@@ -73,4 +73,4 @@ We welcome contributions to enhance and improve this prototype. Feel free to for
 repository, submit issues, or propose new features.
 
 ## License
-This project is licensed under [Your License Here]. See the LICENSE file for details.
+This project is licensed under [MIT License](https://github.com/ipyana/Bird_Repelling_project/blob/main/LICENSE). See the LICENSE file for details.
