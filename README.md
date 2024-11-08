@@ -1,6 +1,6 @@
 # Bird Repelling Prototype - AI-Powered Bird Repellent System
 
-author: [Amenyedzi, D. K.; Vodacek, A.; Kazeneza, M.; Mwaisekwa, I. I.; Nzanywayingoma, F.;
+Author: [Amenyedzi, D. K.; Vodacek, A.; Kazeneza, M.; Mwaisekwa, I. I.; Nzanywayingoma, F.;
 Nsengiyumva, P.; Bamurigire, P.; and Ndashimye, E.]
 Date: [2024]
 
