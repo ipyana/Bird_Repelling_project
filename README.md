@@ -40,7 +40,7 @@ Arduino IDE with required libraries _(instructions below):_
 
 1. Download the model:
 Download the zipped library file from Edge Impulse via via
-_(https://studio.edgeimpulse.com/public/491069/latest)_ or through this _[link](https://drive.google.com/drive/folders/1ea5hSRjF4oRSP3Ecxe8ZgFzBOGLZrBLS)._
+_https://studio.edgeimpulse.com/public/491069/latest_ or through this _[link](https://drive.google.com/drive/folders/1ea5hSRjF4oRSP3Ecxe8ZgFzBOGLZrBLS)._
 2. Import to Arduino IDE:
 Open Arduino IDE on your computer.
 Go to Sketch -> Include Library -> Add .ZIP Library... and select the downloaded library.
